@@ -1,0 +1,23 @@
+title {
+  background: #e1ffff;
+  text-align: center;
+}
+#title2 {
+  text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+body {
+  background-color: #fceabb;
+}
+  .box {
+
+    font-size: 2vw;
+    margin-relative: 0px 300px 0px 300px;
+          }
